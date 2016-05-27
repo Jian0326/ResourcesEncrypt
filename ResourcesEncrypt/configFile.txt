@@ -1,0 +1,3 @@
+D:\CoCosStudio\Coco\Cocos\ResourcesEncrypt\ResourcesEncrypt
+1
+.png,.xml
